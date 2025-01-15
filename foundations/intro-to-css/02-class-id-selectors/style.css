@@ -1,0 +1,17 @@
+.basic {
+    background-color: rgba(200,0,0,0.5);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.basic.plus{
+    font-size: 24px;
+}
+
+#first{
+    color: rgba(0,0,200,1);
+    font-size: 36px;
+}
+#second{
+    background-color: rgba(0,200,0,0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
